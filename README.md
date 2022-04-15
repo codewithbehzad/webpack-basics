@@ -1,3 +1,4 @@
 # webpack-basics
 webpack basic configuration
-https://bshafiei.ir/ariaApp/bshafiei/files/du/2022/1/61e4349dc937b.png
+
+![61e4349dc937b](https://user-images.githubusercontent.com/79241162/163534330-e22b0ab8-2057-4c55-9136-d94c50e854d1.png)
